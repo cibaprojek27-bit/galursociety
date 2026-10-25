@@ -1,0 +1,6 @@
+{
+  "name": "GALUR SOCIETY — Vintage Streetwear",
+  "description": "Independent Streetwear. Timeless Identity. Built from the streets with vintage, retro, and grunge aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
